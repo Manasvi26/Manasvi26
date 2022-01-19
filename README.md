@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **optimization techniques and Data Structures and algorithms.**
 
-- 🌱 I’m currently learning **material UI and Type-script.**
+- 🌱 I’m currently working on **making a clone of Zostel's website.**
 
 - 👯 I’m looking to collaborate on **projects based on MERN stack.**
 
