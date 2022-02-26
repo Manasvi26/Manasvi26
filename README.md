@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manasvi Sharma</h1>
-<h3 align="center">A passionate full stack developer from India. I am trained in full stack web development from Masai School, Bangalore. I am highly-proficient in MERN stack and always feel ready to learn more (as I feel like I am only touching the tip of the iceberg i.e. Web-development, and there is so much more to learn and explore). Looking forward to contribute for the development of an organization and also open for collaborative opportunities.</h3>
+<h3 align="center">A passionate full stack developer from India. I am trained in full stack web development from Masai School, Bangalore. I am highly-proficient in MERN stack and always feel ready to learn more (as I feel like I am only touching the tip of the iceberg i.e. Web-development, and there is so much more to learn and explore). Looking forward to contribute for the development of an organization and also open for collaborative opportunities. Thank you for visiting. Have a great day ahead!</h3>
 
 - 🔭 I’m currently working on **optimization techniques and Data Structures and algorithms.**
 
