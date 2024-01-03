@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **manasvi.manu94@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1yYm0LWWfeenKaYjP5cTPEf8wFxxbktat](https://drive.google.com/drive/folders/1yYm0LWWfeenKaYjP5cTPEf8wFxxbktat)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1yYm0LWWfeenKaYjP5cTPEf8wFxxbktat](https://drive.google.com/file/d/1kqQwH79rvYGhoCYoC8b9Sv7PadLNNPK-/view?usp=drivesdk)
 
 - ⚡ Fun fact **I am a trained theatre maker and actor. Also, I really enjoy sports (outdoor), cycling, trekking, singing and playing guitar. A regular meditator, who strongly believes in the power of discipline.**
 
